@@ -28,6 +28,15 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <div>
+        <p>Enter your Personal details</p>
+      </div>
+      <div>
+        <p>Enter your professional details</p>
+      </div>
+      <div>
+        <p>Enter your academic details</p>
+      </div>
     </>
   )
 }
